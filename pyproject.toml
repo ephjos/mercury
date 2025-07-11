@@ -1,0 +1,12 @@
+[project]
+name = "mercury"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "click>=8.2.1",
+    "matplotlib>=3.10.3",
+    "qrcode[pil]>=8.2",
+    "requests>=2.32.4",
+]
